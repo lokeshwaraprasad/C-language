@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-
+//m is number of rows and n is column
+//a for normal matrix and b for transpose matrix
 int main()
 {
    int m,n;
