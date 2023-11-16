@@ -23,7 +23,7 @@ int main()
   {
       for(int j=0;j<n;j++)
       {
-          B[i][j]=A[i][j];
+          B[i][j]=A[j][i];
           
       }
   }
